@@ -15,7 +15,7 @@
 
 - 🌱 Currently Learning Full-Stack Web Development and cool technologies<br>
 
-- 💬 Ask me about Full-Stack Web Development, Blockchain, and Problem Solving.<br>
+- 💬 Ask me about Full-Stack Web Development, ML, and Problem Solving.<br>
 
 - ⚡ Fun fact: I am a crypto enthusiast!
 
